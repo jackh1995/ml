@@ -1,4 +1,0 @@
-This is a testing message. 
-
-
-This is a second message.
